@@ -9,9 +9,8 @@ create and structure web pages.
 ->It tells the browser how to display content such as text, links, images, and more.
 
 🧱 Core HTML Structure:
-html
-Copy
-Edit
+Code(HTML):
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
